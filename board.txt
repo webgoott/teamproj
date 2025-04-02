@@ -1,1 +1,1 @@
-게시판 view 완성
+게시판 controller 완성
